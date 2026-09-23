@@ -27,7 +27,7 @@ ___
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-      align="left" 
+     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
